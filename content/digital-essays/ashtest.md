@@ -1,7 +1,7 @@
 ---
-location: beacon-hill
-title: My digital essay
-author: Comp U. Ter
+location: financial-district
+title: Boston's Global Trade Network
+author: Ashley Theilacker 
 ---
 
 # Markdown header 1
