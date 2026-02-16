@@ -39,7 +39,7 @@ This is a second test paragraph. It will say something very interesting and incl
 
 Today, New England is widely known for its harsh winters and frozen rivers, and it was no different in colonial times. Even in the coldest of the colonies, though, year-round ice for everyday use was considered a luxury. Upper class citizens were able to install [ice houses](https://www.monticello.org/encyclopedia/ice-house) in their homes, ice was never considered a commodity until one man saw a potential market.
 
-Born in 1783 and educated at Harvard, Frederic Tudor began Boston's ice trade when he was only 23 years old. Shipping companies [refused to partner with Tudor on his endeavor,](https://www.smithsonianmag.com/arts-culture/the-ice-king-cometh-frederic-tudor-father-of-the-ice-industry-29955743/) so he was forced to innovate ships that could transport ice across the Atlantic ocean as far as Calcutta. 
+Born in 1783 and educated at Harvard, Frederic Tudor began Boston's ice trade when he was only 23 years old. Shipping companies [refused to partner with Tudor on his endeavor,](https://www.smithsonianmag.com/arts-culture/the-ice-king-cometh-frederic-tudor-father-of-the-ice-industry-29955743/) so he was forced to innovate ships that could transport ice across the Atlantic ocean as far as Calcutta. Tudor's international renown in the ice trade business gave him the title of Boston's "Ice King." 
 
 ![Frederic Tudor photo](https://investoramnesia.com/wp-content/uploads/2024/02/Tudor-Portrait.jpg)
 
@@ -49,7 +49,9 @@ Tudor planned to ensure that countries would be able to afford his ice. In 1849,
 
 > The plan which I had about this time adopted in my ice trade was not to act the monopolist, but to give the ice to the consumer, in all the southern regions, at a low price ; considering, that, in so doing, I was dealing more justly with the consumer, and best assisting the progress of the business. Thus, in Jamaica, the ice is sold at half the price, and, in Calcutta, at a less price, than it is sold in London.
 
-Tudor's success also brought him into the social spheres of prominent American men, such as Thomas Jefferson, to whom he wrote [letters](https://founders.archives.gov/?q=Correspondent%3A%22Jefferson%2C%20Thomas%22%20Correspondent%3A%22Tudor%2C%20Frederic%22&s=1111311111&r=1) regarding his ideas and plans for building more efficient ships. 
+Paragraph about the process of harvesting ice and how many tons they shipped 
 
 ![An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house.](https://www.bu.edu/files/2022/02/resize-Ice_Harvesting_Massachusetts_early_1850s-1.jpg)
 *An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house. Source: Boston University.*
+
+Tudor's success also brought him into the social spheres of prominent American men, such as Thomas Jefferson, to whom he wrote [letters](https://founders.archives.gov/?q=Correspondent%3A%22Jefferson%2C%20Thomas%22%20Correspondent%3A%22Tudor%2C%20Frederic%22&s=1111311111&r=1) regarding his ideas and plans for building more efficient ships. 
