@@ -46,3 +46,4 @@ Tudor planned to ensure that countries would be able to afford his ice. In 1849,
 Tudor's success also brought him into the social spheres of prominent American men, such as Thomas Jefferson, to whom he wrote [letters](https://founders.archives.gov/?q=Correspondent%3A%22Jefferson%2C%20Thomas%22%20Correspondent%3A%22Tudor%2C%20Frederic%22&s=1111311111&r=1) regarding his ideas and plans for building more efficient ships. 
 
 ![An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house.](https://www.bu.edu/files/2022/02/resize-Ice_Harvesting_Massachusetts_early_1850s-1.jpg)
+*Image Caption*
