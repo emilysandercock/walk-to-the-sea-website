@@ -35,7 +35,7 @@ This is a second test paragraph. It will say something very interesting and incl
 
 Today, New England is widely known for its harsh winters and frozen rivers, and it was no different in colonial times. Even in the coldest of the colonies, though, year-round ice for everyday use was considered a luxury. Upper class citizens were able to install [ice houses](https://www.monticello.org/encyclopedia/ice-house) in their homes, ice was never considered a commodity until one man saw a potential market.
 
-Born in 1783 and educated at Harvard, Frederic Tudor began Boston's ice trade when he was only 23 years old. 
+Born in 1783 and educated at Harvard, Frederic Tudor began Boston's ice trade when he was only 23 years old. Shipping companies [refused to partner with Tudor on his endeavor,](https://www.smithsonianmag.com/arts-culture/the-ice-king-cometh-frederic-tudor-father-of-the-ice-industry-29955743/) so he was forced to innovate ships that could transport ice across the Atlantic ocean as far as Calcutta. 
 
 ![Frederic Tudor photo](https://investoramnesia.com/wp-content/uploads/2024/02/Tudor-Portrait.jpg)
 
