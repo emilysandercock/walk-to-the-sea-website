@@ -33,8 +33,10 @@ This is a second test paragraph. It will say something very interesting and incl
 
 # Boston's Icy Export 
 
-This is a test paragraph for fomatting purposes. This paragraph will be about how ice was considered a luxury and about Frederic Tudor. Maybe it will include a photo of him, as well as some good information. 
+Today, New England is widely known for its harsh winters and frozen rivers, and it was no different in colonial times. Even in the coldest of the colonies, though, year-round ice for everyday use was considered a luxury. Upper class citizens were able to install [ice houses](https://www.monticello.org/encyclopedia/ice-house) in their homes, ice was never considered a commodity until one man saw a potential market.
 
-This will become another paragraph about Boston's ice exports. I think this is the most interesting topic. Hopefully people read this far! 
+Frederic Tudor...
+
+![Frederic Tudor photo](https://media.assettype.com/newssensetn/2022-10/75d7c322-5515-47f4-bf2b-8ad006d978f7/Francis_Alexander___Frederic_Tudor___67_1160___Museum_of_Fine_Arts.jpg_)
 
 ![An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house.](https://www.bu.edu/files/2022/02/resize-Ice_Harvesting_Massachusetts_early_1850s-1.jpg)
