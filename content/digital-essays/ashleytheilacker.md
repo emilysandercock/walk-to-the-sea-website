@@ -37,6 +37,6 @@ Today, New England is widely known for its harsh winters and frozen rivers, and 
 
 Frederic Tudor...
 
-![Frederic Tudor photo](https://media.assettype.com/newssensetn/2022-10/75d7c322-5515-47f4-bf2b-8ad006d978f7/Francis_Alexander___Frederic_Tudor___67_1160___Museum_of_Fine_Arts.jpg_)
+![Frederic Tudor photo](https://investoramnesia.com/wp-content/uploads/2024/02/Tudor-Portrait.jpg)
 
 ![An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house.](https://www.bu.edu/files/2022/02/resize-Ice_Harvesting_Massachusetts_early_1850s-1.jpg)
