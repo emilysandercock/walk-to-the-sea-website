@@ -29,9 +29,9 @@ Kitchenware was not the only product influenced by East Asian design. This pinew
 ](https://vanda-production-assets.s3.amazonaws.com/2019/07/04/15/17/36/0f1ca61a-8909-435b-9b6f-8d6ca9327611/sidecupoard.jpg)
 *Japanned pinewood cabinet decorated with Chinese landscapes and figures, designed by John Linnell, made by William Linnell, 1753, London. Museum no. W.55:1 to 24-1952. © Victoria and Albert Museum, London.*
 
-# Paragraph 2 Undecided 
+# A City Toast to Madeira Wine 
 
-This is a test section. This section will be about another interesting import to Boston that people might not know about. 
+This is a test section. This section will be about Madeira wine and its import to boston. 
 
 This is a second test paragraph. It will say something very interesting and include some good photos and archival material, too. 
 
