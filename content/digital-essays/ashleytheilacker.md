@@ -51,12 +51,11 @@ Tudor planned to ensure that countries would be able to afford his ice. In 1849,
 
 By the mid-1800s, Boston was exporting nearly [75,000 tons of ice globally,](https://www.bu.edu/articles/2022/tracing-the-history-of-new-england-ice-trade/) with much of it harvested from Fresh Pond in Cambrige. Tudor's international renown in the ice trade business gave him the title of Boston's "Ice King." Tudor's success also brought him into the social spheres of prominent American men, such as Thomas Jefferson, to whom he wrote [letters](https://founders.archives.gov/?q=Correspondent%3A%22Jefferson%2C%20Thomas%22%20Correspondent%3A%22Tudor%2C%20Frederic%22&s=1111311111&r=1) regarding his ideas and plans for building more efficient ships. Tudor was worth nearly $200 million in today's dollars by the time of his death. 
 
+![An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house.](https://www.bu.edu/files/2022/02/resize-Ice_Harvesting_Massachusetts_early_1850s-1.jpg)
+*An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house. Source: Boston University.*
+
 Even after Tudor's death, the ice trade remained a prominent part of New England's economy. As more individuals and companies inserted themselves into the lucrative business, rivers and ponds began to be legally divided between them, as shown in this 1894 map created by a Boston ice dealer. 
 
 ![ice map](https://cdn6.picryl.com/photo/1894/01/01/chases-ice-map-showing-location-capacity-ownership-and-cutting-surface-of-the-5d723c-1024.jpg) 
 
 *“Chase’s ice map, showing location, capacity, ownership & cutting surface of the Kennebec, Penobscot & Hudson rivers.” T.B. Chase & Son, 1894. New York Public Library Digital Collections.*
-
-![An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house.](https://www.bu.edu/files/2022/02/resize-Ice_Harvesting_Massachusetts_early_1850s-1.jpg)
-*An illustration from Gleason’s Pictorial Drawing-Room Companion, published in 1852, shows ice being removed from a pond and brought to the nearby ice house. Source: Boston University.*
-
