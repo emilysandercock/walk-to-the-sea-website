@@ -33,15 +33,15 @@ Kitchenware was not the only product influenced by East Asian design. This pinew
 
 While many remember tea, rum, and coffee as siginificant imports to early America, Bostonians also greatly enjoyed drinking wine. One of Boston's key wine imports - along with the rest of the colonies - was specifically made in Madeira, an island colonized by Portugal in the 15th century. The oldest shippers of Madeira wine were Cossart Gordon & Co., founded in 1745 and still producing and shipping the wine today.
 
-Madeira wine stood apart from other wines for two main reasons: its unblended varieties, and its unique fortification process. British and American buyers greatly preferred the unblended wine of Madeira, meaning it only used one type of grape, than other kinds. Interestingly, British consumers preferred sweeter wines, while the colonies preferred the drier variants. In the mid 18th century, Madeira began [fortifying](https://www-jstor-org.ezproxy.neu.edu/stable/207043?seq=9) their wines, meaning they added brandy to the wine during fermentation to increase alcohol content and smoothen the flavor of the drink. These unique production traits madew Madiera wine “an expensive, exotic, status-laden, and highly processed wine." 
+Madeira wine stood apart from other wines for two main reasons: its unblended varieties, and its unique fortification process. British and American buyers greatly preferred the unblended wine of Madeira, meaning it only used one type of grape, than other kinds. Interestingly, British consumers preferred sweeter wines, while the colonies preferred the drier variants. In the mid 18th century, Madeira began [fortifying](https://www-jstor-org.ezproxy.neu.edu/stable/207043?seq=9) their wines, meaning they added brandy to the wine during fermentation to increase alcohol content and smoothen the flavor of the drink. These unique production traits made Madiera wine “an expensive, exotic, status-laden, and highly processed wine." 
 
 ![Wine advertisement](https://adverts250project.org/wp-content/uploads/2026/01/Feb-4-211776-Arruda-New-York-Journal-Page-4-768x393.jpg)
 
 *New-York Journal (February 1, 1776). Image Source: The Adverts 250 Project.*
 
-George Washington loved Madeira wine and [often ordered it to Mount Vernon](https://founders.archives.gov/documents/Washington/02-06-02-0166-0002), enjoying the beverage before the Revolution, throughout his presidency, and during the remainder of his life. 
+The benefits of Madeira wine weren't just the high quality, but the cost. When 
 
-This is a second test paragraph. It will say something very interesting and include some good photos and archival material, too. 
+The founding fathers loved Madeira wine and it became known as the wine of the Revolution. Thomas Jefferson spent approximately [$42,000 in today’s dollars](https://www.tandfonline.com/doi/full/10.1080/14664650500314513?needAccess=true) during his presidency alone. George Washington loved Madeira wine and [often ordered it to Mount Vernon](https://founders.archives.gov/documents/Washington/02-06-02-0166-0002), enjoying the beverage before the Revolution, throughout his presidency, and during the remainder of his life. 
 
 # Boston's Icy Export 
 
